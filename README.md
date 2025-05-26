@@ -26,7 +26,7 @@ Welcome to the official repository for **Freelance Programming Mastery** — a c
 
 ## 📌 How to Use
 
-1. Download the `Freelance_Programming_Mastery_2025.pdf`
+1. Download the `Freelance Programming Mastery.pdf`
 2. Edit the templates and Notion files to match your workflow
 3. Start applying to freelance jobs and building your profile
 
